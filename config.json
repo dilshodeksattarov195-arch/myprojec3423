@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartfetch",
+        "uuid": 28736085,
+        "checksum": "nc82i8"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
